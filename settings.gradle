@@ -1,0 +1,2 @@
+rootProject.name = "dz8"
+include ':app'
